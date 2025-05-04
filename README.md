@@ -54,14 +54,14 @@
 
 ## 🌐 Find me around the web 🌍
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajdeep-singh-panwar-882532344/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rajdeepsingh_panwar/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajdeepsinghpanwar1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mona-agrawal-)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mona_agrawall/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mona.mk.agrawal@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
 
  <br>
  
 ## 📈 GitHub Stats
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Rajdeep2820&show_icons=true&theme=radical" alt="GitHub Stats" /><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajdeep2820&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mona-Agrawall&show_icons=true&theme=radical" alt="GitHub Stats" /><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mona-Agrawall&layout=compact&theme=radical" alt="Top Languages" />
