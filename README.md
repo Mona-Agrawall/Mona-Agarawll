@@ -19,7 +19,7 @@
 - 🎓 Student at SRM Institute of Science and Technology
 - 📚 I'm currently learning DSA
 - 🖥 Passionate about Web Development
-- ⚡Fun fact: Koi fun fact Nhi hai...Sirf Padhai krta hoon main😁!
+- ⚡Fun fact: I love to doodle!
 <br>
 
 ## 🛠 Skills
